@@ -4,7 +4,7 @@ type: guide
 order: 12
 ---
 
-Cobrimos a maioria das noções básicas - agora é hora de dar um mergulho profundo! Uma das características mais distintas do Vue é o sistema de reatividade não obstrutivo. Modelos são simplesmente objetos JavaScript. Quando você os modifica, a exibição é visualização é atualizada. Isso torna o gerenciamento de estado muito simples e intuitivo, mas também é importante entender como isso funciona para evitar algumas armadilhas comuns. Nesta seção, vamos cavar alguns dos detalhes de baixo nível do sistema de reatividade do Vue.
+Cobrimos a maioria das noções básicas - agora é hora de dar um mergulho profundo! Uma das características mais distintas do Vue é o sistema de reatividade não obstrutivo. Modelos são simplesmente objetos JavaScript. Quando você os modifica, a visualização é atualizada. Isso torna o gerenciamento de estado muito simples e intuitivo, mas também é importante entender como isso funciona para evitar algumas armadilhas comuns. Nesta seção, vamos cavar alguns dos detalhes de baixo nível do sistema de reatividade do Vue.
 
 ## Como as Alterções são Monitoradas
 
